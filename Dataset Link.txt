@@ -1,0 +1,7 @@
+link dataset :
+1. https://www.kaggle.com/datasets/aliefflostyo/alief-tomato-village
+2. https://www.kaggle.com/datasets/abdulhasibuddin/plant-doc-dataset
+3. https://www.kaggle.com/datasets/weitianqi/plantseg
+4. https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+5. https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+6. https://www.kaggle.com/datasets/aliefflostyo/tomato-leaf-disease
